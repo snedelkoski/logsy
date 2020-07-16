@@ -1,5 +1,4 @@
 # Logsy
-A log anomaly detection method named Logsy. The code implementation is part of the paper "Logsy: Self-Attentive Classification-Based Anomaly Detectionfrom System Logs"; submitted at ACM CCS 2020
 
 
 
